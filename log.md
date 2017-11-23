@@ -18,3 +18,12 @@ I also wrote a program to model a deck of cards to help me grasp Object-Oriented
 
 **Link to work:** [Ruby Koans](https://github.com/tomhockett/ruby_koans) - 
 [Deck of Cards](https://github.com/tomhockett/Deck-of-Cards)
+
+## Day 2: November 22, 2017
+
+**Today's Progress:**: Did Ruby Koans Conditions tests - I learned a lot about how to run alternative assignments in Ruby based on conditions.  I can use this assignment in my object models in the card game I'm working on.
+
+**Thoughts:** Today was hard to code. I was really tired and I had to make myself work today.  I wish I could have gotten more done but it was a long day and tomorrow in Thanksgiving. I will try and wake up early and make up some lost time tomorrow morning.
+
+**Link to work:** [Ruby Koans](https://github.com/tomhockett/ruby_koans) -
+[Deck of Cards](https://github.com/tomhockett/Deck-of-Cards)
