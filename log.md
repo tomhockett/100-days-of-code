@@ -28,7 +28,7 @@ I also wrote a program to model a deck of cards to help me grasp Object-Oriented
 **Link to work:** [Ruby Koans](https://github.com/tomhockett/ruby_koans) -
 [Deck of Cards](https://github.com/tomhockett/Deck-of-Cards)
 
-## Day 2: November 23rd, 2017
+## Day 3: November 23rd, 2017
 
 **Today’s Progress:** Switched gears a bit and started Colt Steele’s Advanced Web Dev Bootcamp. i did a bunch of
 work on CSS transitions and pseudo-classes. 
