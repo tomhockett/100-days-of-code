@@ -28,7 +28,16 @@ I also wrote a program to model a deck of cards to help me grasp Object-Oriented
 **Link to work:** [Ruby Koans](https://github.com/tomhockett/ruby_koans) -
 [Deck of Cards](https://github.com/tomhockett/Deck-of-Cards)
 
-## Day 3: November 29, 2017
+## Day 3: November 23rd, 2017
+
+**Today’s Progress:** Switched gears a bit and started Colt Steele’s Advanced Web Dev Bootcamp. i did a bunch of
+work on CSS transitions and pseudo-classes. 
+
+**Thoughts:** i love working with CSS and improving my skills by working with animations was super fun. i also set up my projects in Twello to track my progress. 
+
+**link to work:** [Advanced Web Dev Bootcamp](https://github.com/tomhockett/Adv-Web-Dev-Bootcamp)
+
+## Day 4: November 29, 2017
 
 **Today's Progress:** Finished Ruby Koans Conditional statements.  I also worked on project to do simple css/js ripple effects without jQuery.
 
