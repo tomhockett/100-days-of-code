@@ -39,7 +39,7 @@ work on CSS transitions and pseudo-classes.
 
 ## Day 4: November 29, 2017
 
-**Today's Progress:** Finished Ruby Koans Conditional statements.  I also worked on project to do simple css/js ripple effects without jQuery.
+**Today's Progress:** Finished Ruby Koans Conditional statements, about blocks, yields, and finished both Triangle projects.  I also worked on project to do simple css/js ripple effects without jQuery.
 
 **Thoughts:** Personal life got in the way of the 100-days project.  I'm not happy about it. Most of what I'm trying to do here is to establish discipline in my coding and in my life.  I've decided not to give up on the challenge and to focus my efforts to be more disciplined.
 
