@@ -46,3 +46,11 @@ work on CSS transitions and pseudo-classes.
 **Link to work:** [Ruby Koans](https://github.com/tomhockett/ruby_koans)
 
 [Simple Ripple](https://github.com/tomhockett/simple-ripple)
+
+## Day 5: November 30, 2017
+
+**Today's Progress:** Worked on Ruby Koans again today and did the Sandwich code lessons.
+
+**Thoughts:** The idea of sandwich code was new to me as I'd never heard of it before. Ruby allows you to write a method that codes the top and bottom functions that get repeated (the bread in this example) and yields to a block of code that you can pass in (the meat.) I need to read more about it, but it does seem to be a powerful way to make my code more DRY.
+
+**Link to work:** [Ruby Koans](https://github.com/tomhockett/ruby_koans)
