@@ -27,3 +27,13 @@ I also wrote a program to model a deck of cards to help me grasp Object-Oriented
 
 **Link to work:** [Ruby Koans](https://github.com/tomhockett/ruby_koans) -
 [Deck of Cards](https://github.com/tomhockett/Deck-of-Cards)
+
+## Day 3: November 29, 2017
+
+**Today's Progress:** Finished Ruby Koans Conditional statements.  I also worked on project to do simple css/js ripple effects without jQuery.
+
+**Thoughts:** Personal life got in the way of the 100-days project.  I'm not happy about it. Most of what I'm trying to do here is to establish discipline in my coding and in my life.  I've decided not to give up on the challenge and to focus my efforts to be more disciplined.
+
+**Link to work:** [Ruby Koans](https://github.com/tomhockett/ruby_koans)
+
+[Simple Ripple](https://github.com/tomhockett/simple-ripple)
